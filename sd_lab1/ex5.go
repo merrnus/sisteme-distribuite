@@ -1,3 +1,5 @@
+// ex5: Inverseaza ordinea elementelor unui slice de string-uri, fara alt slice.
+
 package main
 
 import "fmt"

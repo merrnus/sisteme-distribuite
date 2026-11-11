@@ -1,3 +1,5 @@
+// ex1: Transfera un mesaj de la o goroutine la main printr-un channel.
+
 package main
 
 import "fmt"

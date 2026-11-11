@@ -1,3 +1,5 @@
+// ex8: Transforma map nume-departament in map departament-lista de nume.
+
 package main
 
 import "fmt"

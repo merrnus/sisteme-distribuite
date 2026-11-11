@@ -1,3 +1,5 @@
+// ex9: Afiseaza in O(n) indicii elementelor care insumate dau s (citit de la tastatura).
+
 package main
 
 import "fmt"

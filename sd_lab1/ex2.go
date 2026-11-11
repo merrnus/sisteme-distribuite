@@ -1,3 +1,5 @@
+// ex2: Stocheaza un array si il afiseaza sortat crescator (bubble sort).
+
 package main
 
 import "fmt"

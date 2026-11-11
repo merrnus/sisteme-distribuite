@@ -1,3 +1,5 @@
+// ex6: Afiseaza numele dintr-un map nume-inaltime in ordinea descrescatoare a inaltimilor.
+
 package main
 
 import (

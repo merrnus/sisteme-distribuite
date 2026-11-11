@@ -1,3 +1,5 @@
+// ex7: Citeste cuvinte dintr-un fisier si afiseaza de cate ori apare fiecare.
+
 package main
 
 import (

@@ -1,3 +1,5 @@
+// ex2: Transfera un mesaj de la main la o goroutine printr-un channel.
+
 package main
 
 import (

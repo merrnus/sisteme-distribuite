@@ -1,3 +1,5 @@
+// ex1: Citeste un numar natural de la tastatura si verifica daca este prim.
+
 package main 
 
 import "fmt"

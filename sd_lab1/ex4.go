@@ -1,3 +1,5 @@
+// ex4: Slice de float32; citeste un index si elimina elementul de la acea pozitie, pastrand ordinea.
+
 package main 
 
 import "fmt" 

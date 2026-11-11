@@ -1,3 +1,5 @@
+// ex3: Stocheaza un sir de numere si afiseaza un slice cu numerele pare.
+
 package main
 
 import "fmt"

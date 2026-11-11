@@ -1,3 +1,5 @@
+// ex4: O goroutine notifica main cand termina, fara WaitGroup.
+
 package main
 
 import "fmt"

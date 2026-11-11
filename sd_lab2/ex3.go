@@ -1,3 +1,5 @@
+// ex3: main primeste doua mesaje pe acelasi canal.
+
 package main
 
 import "fmt"
